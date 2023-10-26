@@ -1,0 +1,33 @@
+
+.card-image-top{
+	height: 175px;
+	object-fit: cover;
+	
+}
+.albums .card:hover {
+	outline:6px solid #ffdb4b;
+	transition: 0.1s;
+}
+.albums .card:active {
+	outline: 6px solid rgb(255, 120, 1);
+}
+.card-kk {
+	height: 260px;
+}
+.albums {
+	margin-top: 5px;
+}
+.card-text-body {
+	font-size: 18px;
+	display: flex;
+	text-align: center;
+	justify-content: center;
+	align-items: center;
+}
+.albums a{
+	color:#14181EFF;
+}
+.h1-sss {
+	position: relative;
+	top: -5px;
+}

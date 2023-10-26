@@ -1,0 +1,40 @@
+body {
+	
+	
+	background-position:center;
+	background-repeat: no-repeat;
+}
+header {
+	background-color: white;
+}
+.img-fluid {
+	height: 100%;
+	width: 100%;
+}
+.text-muted {
+	font-size: 16px;
+}
+.list-group-item:hover {
+	outline:10px solid #ffdb4b;
+	z-index: 1;
+	transition: 0.2s;
+}
+.row-heig {
+	max-height: 60px;
+}
+.alert-danger {
+	text-align: center;
+	top: -10px;
+}
+.progress {
+	width: 100%;
+	max-width: 400px;
+
+}
+.image-card-right {
+	max-height: 350px;
+}
+.name-track {
+	max-width: 60px;
+	margin-right: 25px;
+}
